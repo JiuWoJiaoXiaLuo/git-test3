@@ -17,6 +17,8 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("梅开二度");
+        System.out.println("mayun");
+
 
 
     }
